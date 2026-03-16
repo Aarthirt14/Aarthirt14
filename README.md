@@ -21,6 +21,8 @@ Building real-world AI & prediction systems using Python, Flask, and data-driven
 </p>
 
 ---
+## Email
+aarthiii333@gmail.com
 
 ## About
 
@@ -105,6 +107,6 @@ Move from student-level code to production-level projects
 
 ## Contact
 
-Email: 24uam101aarthi@kgkite.ac.in  
+Email: aarthiii333@gmail.com
 LinkedIn: https://www.linkedin.com/in/aarthi-suresh-92856b351  
 Location: Coimbatore, India
