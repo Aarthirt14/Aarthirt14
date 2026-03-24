@@ -96,6 +96,14 @@ Most commits come from testing models, fixing bugs, and improving project struct
 ![streak](https://streak-stats.demolab.com/?user=Aarthirt14&theme=tokyonight)
 
 ---
+## Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning basics
+- NLP with transformers
+- Backend APIs with Flask
+- Writing cleaner, modular Python code
+---
 
 ## Goal
 
