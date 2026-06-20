@@ -1,6 +1,5 @@
-````md
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Aarthi Suresh Banner">
+  <img src="assets/banner.gif" alt="Aarthi Suresh Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Aarthi Suresh</h1>
@@ -10,23 +9,21 @@ AI & Machine Learning Student • Python Developer • Backend Builder
 </h3>
 
 <p align="center">
-<i>Learning in public. Building real products. Improving every day.</i>
+Learning in public • Building real products • Improving every day
 </p>
 
 <p align="center">
+  <a href="https://github.com/Aarthirt14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<a href="https://github.com/Aarthirt14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:aarthiii333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="mailto:aarthiii333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -40,27 +37,25 @@ class Aarthi:
 
         self.name = "Aarthi Suresh"
 
-        self.role = "AI & Machine Learning Student"
+        self.education = "B.E CSE (AI & ML)"
 
-        self.college = "KGiSL Institute of Technology"
-
-        self.language = "Python"
+        self.role = "AI & ML Student"
 
         self.learning_style = "Learn by Building"
 
         self.current_focus = [
             "Machine Learning",
             "Deep Learning",
-            "NLP",
+            "Natural Language Processing",
             "Backend Development",
             "MLOps"
         ]
 
         self.goal = "Machine Learning Engineer"
 
-    def motto(self):
+    def philosophy(self):
 
-        return "Build • Learn • Improve • Repeat"
+        return "Build. Learn. Improve. Repeat."
 ```
 
 ---
@@ -69,19 +64,19 @@ class Aarthi:
 
 ## 🧩 AeroPuzzle
 
-Gesture-controlled puzzle game using OpenCV and MediaPipe.
+Gesture-controlled puzzle game built using Computer Vision and MediaPipe.
 
 ---
 
 ## 📜 ClausePilot
 
-AI-powered contract clause risk classification system using NLP.
+AI-powered contract clause classification system using NLP.
 
 ---
 
 ## 🎓 EduGuard
 
-Machine learning platform for student performance prediction.
+Machine learning system for student performance prediction.
 
 ---
 
@@ -91,7 +86,7 @@ Placement prediction and analytics platform.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -100,7 +95,7 @@ Placement prediction and analytics platform.
 - JavaScript
 - SQL
 
-### AI & ML
+### AI / ML
 
 - Scikit-Learn
 - Pandas
@@ -126,8 +121,8 @@ Placement prediction and analytics platform.
 
 - Deep Learning
 - Transformers
-- MLOps
 - Docker
+- MLOps
 - Backend Architecture
 - System Design
 
@@ -136,17 +131,13 @@ Placement prediction and analytics platform.
 # 📈 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarthirt14&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarthirt14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Aarthirt14&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com/?user=Aarthirt14&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthirt14&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarthirt14&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -154,9 +145,7 @@ Placement prediction and analytics platform.
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarthirt14&theme=tokyo-night&hide_border=true">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarthirt14&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
@@ -171,41 +160,38 @@ Placement prediction and analytics platform.
 
 ---
 
-# 💭 Philosophy
+# 💭 My Philosophy
 
-> I learn by building.
+> I believe the best way to learn is by building.
 
-> Every project teaches something that no tutorial can.
+> Every project teaches lessons that no tutorial can.
 
 > Progress comes from consistency, curiosity, and shipping real work.
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:aarthiii333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="mailto:aarthiii333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Aarthirt14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://github.com/Aarthirt14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
 <p align="center">
-
-### ⭐ Thanks for visiting!
-
 Learning • Building • Improving
-
 </p>
-````
