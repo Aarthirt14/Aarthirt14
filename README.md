@@ -1,27 +1,29 @@
 ````md
 <div align="center">
 
-<img src="assets/banner.gif" width="100%" alt="Animated Banner"/>
+<img src="assets/banner.gif" width="100%" alt="Aarthi Suresh Banner"/>
 
-# Hi 👋 I'm Aarthi Suresh
+# 👋 Hi, I'm Aarthi Suresh
 
-### Machine Learning • Artificial Intelligence • Backend Development
+### AI & Machine Learning Student • Python Developer • Backend Builder
 
-*"Learning by building real-world products instead of collecting tutorials."*
+*"Learning in public. Building real products. Improving every day."*
 
-<br>
+<p>
 
 <a href="https://github.com/Aarthirt14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aarthiii333@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
@@ -32,87 +34,129 @@
 ```python
 class Aarthi:
 
-    role = "AI & ML Student"
+    def __init__(self):
 
-    education = "B.E CSE (Artificial Intelligence & Machine Learning)"
+        self.name = "Aarthi Suresh"
 
-    learning_style = "Learn by Building"
+        self.role = "AI & Machine Learning Student"
 
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Computer Vision",
-        "Backend Development",
-        "Open Source"
-    ]
+        self.education = "B.E CSE (AIML)"
 
-    current_goal = "Become a Machine Learning Engineer"
+        self.language = "Python"
 
-    philosophy = "Build. Break. Learn. Repeat."
+        self.current_focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Backend Development",
+            "MLOps"
+        ]
+
+        self.learning_style = "Learn by Building"
+
+        self.goal = "Machine Learning Engineer"
+
+    def motto(self):
+
+        return "Build. Break. Learn. Repeat."
 ````
 
 ---
 
 # 🚀 Featured Projects
 
-| Project            | Description                                               |
-| ------------------ | --------------------------------------------------------- |
-| 🧩 **AeroPuzzle**  | Gesture-controlled puzzle game using OpenCV and MediaPipe |
-| 📜 **ClausePilot** | AI-powered contract clause risk classification system     |
-| 🎓 **EduGuard**    | Student performance prediction using Machine Learning     |
-| 📊 **PlacePulse**  | Placement prediction and analytics platform               |
+| Project            | Description                                                        |
+| ------------------ | ------------------------------------------------------------------ |
+| 🧩 **AeroPuzzle**  | Gesture-controlled puzzle game using Computer Vision and MediaPipe |
+| 📜 **ClausePilot** | AI-powered contract clause classification using NLP                |
+| 🎓 **EduGuard**    | Student performance prediction platform using Machine Learning     |
+| 📊 **PlacePulse**  | Placement prediction and analytics platform                        |
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-`Python` • `C++` • `JavaScript` • `SQL`
+<p>
 
-### Machine Learning
+<img src="https://skillicons.dev/icons?i=python"/>
 
-`Scikit-learn` • `Pandas` • `NumPy` • `OpenCV`
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=js"/>
 
-`Flask` • `REST APIs`
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-### Tools
+</p>
 
-`Git` • `GitHub` • `VS Code` • `Linux`
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+</p>
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+* NLP
+
+---
+
+## 🌐 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
 * Deep Learning
-* Transformer Models
+* Transformers
 * MLOps
-* Backend Architecture
-* Production Machine Learning
+* Docker
 * System Design
+* Backend APIs
+* Production Machine Learning
 
 ---
 
-# 📖 Philosophy
-
-GitHub is my public learning journal.
-
-Every repository reflects experiments, iterations, bug fixes, and improvements—not just finished work.
-
-I believe growth comes from building consistently and sharing the journey.
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarthirt14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Aarthirt14&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Aarthirt14&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -122,41 +166,78 @@ I believe growth comes from building consistently and sharing the journey.
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarthirt14&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarthirt14&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🎯 2026 Goals
+
+* ✅ Become internship ready
+* 🔄 Build production-grade AI projects
+* 🔄 Contribute to Open Source
+* 🔄 Participate in Kaggle competitions
+* 🔄 Learn MLOps
+* 🎯 Land a Machine Learning internship
+
+---
+
+# 💭 My Philosophy
+
+> I don't measure progress by the number of tutorials I finish.
+
+> I measure it by the number of projects I build, the bugs I fix, and the lessons I learn while creating something real.
+
+---
+
+# 📚 Fun Facts
+
+* 🐍 Python is my favorite language.
+* 🤖 I enjoy building AI applications that solve practical problems.
+* 🚀 I prefer shipping projects over endlessly watching tutorials.
+* 💡 Most of my learning happens through experimentation.
+* ☕ Coffee and debugging are a surprisingly effective combination.
+
+---
+
 # 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:aarthiii333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/aarthi-suresh-92856b351">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Aarthirt14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-**Still learning. Still building. Still shipping.**
+**Learning • Building • Improving**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,100:764ba2"/>
 
 </div>
 ```
